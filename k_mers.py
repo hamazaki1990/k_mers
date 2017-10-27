@@ -1,13 +1,17 @@
+from Bio.SeqRecord import SeqRecord
 from Bio import SeqIO
 
 
-def collect_kmers(file, k):
-    for seq_record in SeqIO.parse(file, "fasta"):
-        kmers_list = []
-        for i in range(len(seq_record)):
-            kmer = seq_record.seq[i:i+k]
-            if len(kmer) == k:
-                kmers_list.append(kmer)
-        return kmers_list
+def make_kmers(file, format, k):
+    for seq_record in SeqIO.parse(file, format):
+        i = 0
+        while True:
+            seq = seq_record.seq[i:i+k]
+            if len(seq) < k:
+                break
+            else:
+                yield seq
+        i += 1
 
-print(collect_kmers("test.fa", 3))
+
+kmer = make_kmers("test.fa", "fasta", 3)
