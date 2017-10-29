@@ -7,11 +7,14 @@ def make_kmers(file, format, k):
         i = 0
         while True:
             seq = seq_record.seq[i:i+k]
-            if len(seq) < k:
-                break
-            else:
-                yield seq
-        i += 1
+            yield seq
+            i += 1
 
 
 kmer = make_kmers("test.fa", "fasta", 3)
+kmers = []
+
+if len(next(kmer)) == 3:
+    kmers.append(next(kmer))
+
+print(kmers)
