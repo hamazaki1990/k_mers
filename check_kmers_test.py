@@ -37,10 +37,15 @@ for i in chr:
                     if index == -1:
                         pass
                     else:
-                        split = genome.seq.split(l)
-                        length = [len(x) for x in split]
-                        position = [sum(length[:(x + 1)]) + x * k for x in range(len(length) - 1)]
-                        row = [l]
-                        row.extend(position)
-                        writer = csv.writer(outfile, delimiter=",")
-                        writer.writerow(row)
+                        try:
+                            HOR = next(SeqIO.parse(input_q, "fasta"))
+                        except:
+                            break
+                        else:
+                            split = genome.seq.split(l)
+                            length = [len(x) for x in split]
+                            position = [sum(length[:(x + 1)]) + x * k for x in range(len(length) - 1)]
+                            row = [j, HOR.seq.find(l), l, i]
+                            row.extend(position)
+                            writer = csv.writer(outfile, delimiter=",")
+                            writer.writerow(row)
