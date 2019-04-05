@@ -30,17 +30,35 @@ def kmer_index(filename, formatname, kmer):
     for seq_record in SeqIO.parse(filename, formatname):
         return seq_record.seq.find(kmer)
 
+
 def main():
-    for HOR in [1, 2, 11]:
-        for k in range(16, 20):
-            outputf = "chr" + str(HOR) + "_" + str(k) + "merlist.csv"
-            inputf = "chr" + str(HOR) + "_HOR.fa"
-            kmer = collect_kmers(inputf, "fasta", k)
-            with open(outputf, "w") as outfile:
-                writer = csv.writer(outfile, delimiter=",")
-                for i in kmer:
-                    row = ["HOR=" + str(HOR) + ":" + str(kmer_index(inputf, "fasta", i)), i]
-                    writer.writerow(row)
+    # for HOR in [1, 2, 11]:
+    #     for k in range(16, 20):
+    #         outputf = "chr" + str(HOR) + "_" + str(k) + "merlist.csv"
+    #         inputf = "chr" + str(HOR) + "_HOR.fa"
+    #         kmer = collect_kmers(inputf, "fasta", k)
+    #         with open(outputf, "w") as outfile:
+    #             writer = csv.writer(outfile, delimiter=",")
+    #             for i in kmer:
+    #                 row = ["HOR=" + str(HOR) + ":" + str(kmer_index(inputf, "fasta", i)), i]
+    #                 writer.writerow(row)
+
+    cent = [str(x) for x in range(1, 21)]
+    cent.extend(["X", "Y"])
+    cent.remove("5")
+    cent.remove("19")
+
+    for x in cent:
+        print(x)
+        inputf = "chr" + str(x) + "_HOR.fa"
+        kmer = make_kmer(inputf, "fasta", 20)
+        while True:
+            try:
+                test = next(kmer)
+            except:
+                break
+            else:
+                print(test)
 
 
 if __name__ == "__main__":

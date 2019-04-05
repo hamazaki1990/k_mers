@@ -21,8 +21,8 @@ def get_uniquekmer(inputseq_rec, *otherseq_recs):
     k = 1
     kmer = inputseq_rec.seq[i:i+k]
     while True:
-        if len(kmer) == 0:
-            break
+        if i + k > len(inputseq_rec.seq):
+            raise StopIteration()
         else:
             for otherseq_rec in otherseq_recs:
                 while kmer_notunique(kmer, otherseq_rec.seq):
@@ -30,10 +30,10 @@ def get_uniquekmer(inputseq_rec, *otherseq_recs):
                     kmer = inputseq_rec.seq[i:i+k]
                 else:
                     pass
-            yield kmer
-            i = i + 1
-            k = 1
-            kmer = inputseq_rec.seq[i:i+k]
+        yield kmer
+        i = i + 1
+        k = 1
+        kmer = inputseq_rec.seq[i:i+k]
 
 
 # inputf = "chr1_HOR.fa"
