@@ -20,17 +20,20 @@ def get_uniquekmer(inputseq_rec, *otherseq_recs):
     i = 0
     k = 1
     kmer = inputseq_rec.seq[i:i+k]
-    while len(kmer) != 0:
-        for otherseq_rec in otherseq_recs:
-            while kmer_notunique(kmer, otherseq_rec.seq):
-                k = k + 1
-                kmer = inputseq_rec.seq[i:i+k]
-            else:
-                pass
-        yield kmer
-        i = i + 1
-        k = 1
-        kmer = inputseq_rec.seq[i:i+k]
+    while True:
+        if len(kmer) == 0:
+            break
+        else:
+            for otherseq_rec in otherseq_recs:
+                while kmer_notunique(kmer, otherseq_rec.seq):
+                    k = k + 1
+                    kmer = inputseq_rec.seq[i:i+k]
+                else:
+                    pass
+            yield kmer
+            i = i + 1
+            k = 1
+            kmer = inputseq_rec.seq[i:i+k]
 
 
 # inputf = "chr1_HOR.fa"
@@ -50,12 +53,20 @@ for x in cent:
     othercent = cent[:]
     othercent.remove(x)
     inputf = "chr" + str(x) + "_HOR.fa"
-    for inputseq in SeqIO.parse(inputf, "fasta"):
+    try:
+        inputseq = next(SeqIO.parse(inputf, "fasta"))
+    except:
+        break
+    else:
         otherseqs = []
         for y in othercent:
             print(y)
             otherf = "chr" + str(y) + "_HOR.fa"
-            for otherseq in SeqIO.parse(otherf, "fasta"):
+            try:
+                otherseq = next(SeqIO.parse(otherf, "fasta"))
+            except:
+                break
+            else:
                 otherseqs.append(otherseq)
         print(otherseqs)
         kmer = get_uniquekmer(inputseq, *otherseqs)
