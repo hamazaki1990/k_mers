@@ -1,0 +1,432 @@
+{'gff_id': {('chr1',): 268}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 267}, 'gff_source': {('.',): 268}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 267}}
+{'gff_id': {('chr2',): 347}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 346}, 'gff_source': {('.',): 347}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 346}}
+{'gff_id': {('chr3',): 240}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 239}, 'gff_source': {('.',): 240}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 239}}
+{'gff_id': {('chr4',): 272}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 271}, 'gff_source': {('.',): 272}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 271}}
+{'gff_id': {('chr5',): 230}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 229}, 'gff_source': {('.',): 230}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 229}}
+{'gff_id': {('chr6',): 215}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 214}, 'gff_source': {('.',): 215}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 214}}
+{'gff_id': {('chr7',): 175}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 174}, 'gff_source': {('.',): 175}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 174}}
+{'gff_id': {('chr8',): 199}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 198}, 'gff_source': {('.',): 199}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 198}}
+{'gff_id': {('chr9',): 161}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 160}, 'gff_source': {('.',): 161}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 160}}
+{'gff_id': {('chr10',): 202}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 201}, 'gff_source': {('.',): 202}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 201}}
+{'gff_id': {('chr11',): 157}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 156}, 'gff_source': {('.',): 157}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 156}}
+{'gff_id': {('chr12',): 167}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 166}, 'gff_source': {('.',): 167}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 166}}
+{'gff_id': {('chr13',): 170}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 169}, 'gff_source': {('.',): 170}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 169}}
+{'gff_id': {('chr14',): 96}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 95}, 'gff_source': {('.',): 96}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 95}}
+{'gff_id': {('chr15',): 88}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 87}, 'gff_source': {('.',): 88}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 87}}
+{'gff_id': {('chr16',): 86}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 85}, 'gff_source': {('.',): 86}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 85}}
+{'gff_id': {('chr17',): 87}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 86}, 'gff_source': {('.',): 87}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 86}}
+{'gff_id': {('chr18',): 92}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 91}, 'gff_source': {('.',): 92}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 91}}
+{'gff_id': {('chr19',): 45}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 44}, 'gff_source': {('.',): 45}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 44}}
+{'gff_id': {('chr20',): 62}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 61}, 'gff_source': {('.',): 62}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 61}}
+{'gff_id': {('chr21',): 57}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 56}, 'gff_source': {('.',): 57}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 56}}
+{'gff_id': {('chr22',): 35}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 34}, 'gff_source': {('.',): 35}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 34}}
+{'gff_id': {('chrX',): 132}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 131}, 'gff_source': {('.',): 132}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 131}}
+{'gff_id': {('chrY',): 21}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 20}, 'gff_source': {('.',): 21}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 20}}
+{'gff_id': {('chr1',): 466}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 465}, 'gff_source': {('.',): 466}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 465}}
+{'gff_id': {('chr2',): 573}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 572}, 'gff_source': {('.',): 573}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 572}}
+{'gff_id': {('chr3',): 484}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 483}, 'gff_source': {('.',): 484}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 483}}
+{'gff_id': {('chr4',): 456}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 455}, 'gff_source': {('.',): 456}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 455}}
+{'gff_id': {('chr5',): 420}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 419}, 'gff_source': {('.',): 420}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 419}}
+{'gff_id': {('chr6',): 401}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 400}, 'gff_source': {('.',): 401}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 400}}
+{'gff_id': {('chr7',): 322}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 321}, 'gff_source': {('.',): 322}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 321}}
+{'gff_id': {('chr8',): 327}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 326}, 'gff_source': {('.',): 327}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 326}}
+{'gff_id': {('chr9',): 285}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 284}, 'gff_source': {('.',): 285}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 284}}
+{'gff_id': {('chr10',): 318}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 317}, 'gff_source': {('.',): 318}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 317}}
+{'gff_id': {('chr11',): 273}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 272}, 'gff_source': {('.',): 273}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 272}}
+{'gff_id': {('chr12',): 285}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 284}, 'gff_source': {('.',): 285}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 284}}
+{'gff_id': {('chr13',): 263}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 262}, 'gff_source': {('.',): 263}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 262}}
+{'gff_id': {('chr14',): 190}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 189}, 'gff_source': {('.',): 190}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 189}}
+{'gff_id': {('chr15',): 168}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 167}, 'gff_source': {('.',): 168}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 167}}
+{'gff_id': {('chr16',): 146}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 145}, 'gff_source': {('.',): 146}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 145}}
+{'gff_id': {('chr17',): 153}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 152}, 'gff_source': {('.',): 153}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 152}}
+{'gff_id': {('chr18',): 211}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 210}, 'gff_source': {('.',): 211}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 210}}
+{'gff_id': {('chr19',): 65}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 64}, 'gff_source': {('.',): 65}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 64}}
+{'gff_id': {('chr20',): 105}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 104}, 'gff_source': {('.',): 105}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 104}}
+{'gff_id': {('chr21',): 90}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 89}, 'gff_source': {('.',): 90}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 89}}
+{'gff_id': {('chr22',): 62}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 61}, 'gff_source': {('.',): 62}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 61}}
+{'gff_id': {('chrX',): 265}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 264}, 'gff_source': {('.',): 265}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 264}}
+{'gff_id': {('chrY',): 39}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 38}, 'gff_source': {('.',): 39}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 38}}
+{'gff_id': {('chr1',): 475}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 474}, 'gff_source': {('.',): 475}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 474}}
+{'gff_id': {('chr2',): 529}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 528}, 'gff_source': {('.',): 529}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 528}}
+{'gff_id': {('chr3',): 455}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 454}, 'gff_source': {('.',): 455}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 454}}
+{'gff_id': {('chr4',): 477}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 476}, 'gff_source': {('.',): 477}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 476}}
+{'gff_id': {('chr5',): 439}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 438}, 'gff_source': {('.',): 439}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 438}}
+{'gff_id': {('chr6',): 388}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 387}, 'gff_source': {('.',): 388}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 387}}
+{'gff_id': {('chr7',): 327}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 326}, 'gff_source': {('.',): 327}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 326}}
+{'gff_id': {('chr8',): 333}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 332}, 'gff_source': {('.',): 333}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 332}}
+{'gff_id': {('chr9',): 276}, 'gff_source_type': {('.', 'kmer_hit'): 275, ('.', 'centromere'): 1}, 'gff_source': {('.',): 276}, 'gff_type': {('kmer_hit',): 275, ('centromere',): 1}}
+{'gff_id': {('chr10',): 271}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 270}, 'gff_source': {('.',): 271}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 270}}
+{'gff_id': {('chr11',): 281}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 280}, 'gff_source': {('.',): 281}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 280}}
+{'gff_id': {('chr12',): 322}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 321}, 'gff_source': {('.',): 322}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 321}}
+{'gff_id': {('chr13',): 283}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 282}, 'gff_source': {('.',): 283}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 282}}
+{'gff_id': {('chr14',): 200}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 199}, 'gff_source': {('.',): 200}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 199}}
+{'gff_id': {('chr15',): 142}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 141}, 'gff_source': {('.',): 142}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 141}}
+{'gff_id': {('chr16',): 173}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 172}, 'gff_source': {('.',): 173}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 172}}
+{'gff_id': {('chr17',): 136}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 135}, 'gff_source': {('.',): 136}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 135}}
+{'gff_id': {('chr18',): 209}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 208}, 'gff_source': {('.',): 209}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 208}}
+{'gff_id': {('chr19',): 65}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 64}, 'gff_source': {('.',): 65}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 64}}
+{'gff_id': {('chr20',): 110}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 109}, 'gff_source': {('.',): 110}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 109}}
+{'gff_id': {('chr21',): 96}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 95}, 'gff_source': {('.',): 96}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 95}}
+{'gff_id': {('chr22',): 117}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 116}, 'gff_source': {('.',): 117}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 116}}
+{'gff_id': {('chrX',): 289}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 288}, 'gff_source': {('.',): 289}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 288}}
+{'gff_id': {('chrY',): 59}, 'gff_source_type': {('.', 'centromere'): 1, ('.', 'kmer_hit'): 58}, 'gff_source': {('.',): 59}, 'gff_type': {('centromere',): 1, ('kmer_hit',): 58}}
+{'gff_id': {('chr1',): 34856}, 'gff_source_type': {('.', 'kmer_hit'): 34856}, 'gff_source': {('.',): 34856}, 'gff_type': {('kmer_hit',): 34856}}
+{'gff_id': {('chr2',): 3804}, 'gff_source_type': {('.', 'kmer_hit'): 3804}, 'gff_source': {('.',): 3804}, 'gff_type': {('kmer_hit',): 3804}}
+{'gff_id': {('chr3',): 31696}, 'gff_source_type': {('.', 'kmer_hit'): 31696}, 'gff_source': {('.',): 31696}, 'gff_type': {('kmer_hit',): 31696}}
+{'gff_id': {('chr4',): 906}, 'gff_source_type': {('.', 'kmer_hit'): 906}, 'gff_source': {('.',): 906}, 'gff_type': {('kmer_hit',): 906}}
+{'gff_id': {('chr5',): 61207}, 'gff_source_type': {('.', 'kmer_hit'): 61207}, 'gff_source': {('.',): 61207}, 'gff_type': {('kmer_hit',): 61207}}
+{'gff_id': {('chr6',): 5644}, 'gff_source_type': {('.', 'kmer_hit'): 5644}, 'gff_source': {('.',): 5644}, 'gff_type': {('kmer_hit',): 5644}}
+{'gff_id': {('chr7',): 21525}, 'gff_source_type': {('.', 'kmer_hit'): 21525}, 'gff_source': {('.',): 21525}, 'gff_type': {('kmer_hit',): 21525}}
+{'gff_id': {('chr8',): 3825}, 'gff_source_type': {('.', 'kmer_hit'): 3825}, 'gff_source': {('.',): 3825}, 'gff_type': {('kmer_hit',): 3825}}
+{'gff_id': {('chr9',): 8569}, 'gff_source_type': {('.', 'kmer_hit'): 8569}, 'gff_source': {('.',): 8569}, 'gff_type': {('kmer_hit',): 8569}}
+{'gff_id': {('chr10',): 56349}, 'gff_source_type': {('.', 'kmer_hit'): 56349}, 'gff_source': {('.',): 56349}, 'gff_type': {('kmer_hit',): 56349}}
+{'gff_id': {('chr11',): 9623}, 'gff_source_type': {('.', 'kmer_hit'): 9623}, 'gff_source': {('.',): 9623}, 'gff_type': {('kmer_hit',): 9623}}
+{'gff_id': {('chr12',): 19269}, 'gff_source_type': {('.', 'kmer_hit'): 19269}, 'gff_source': {('.',): 19269}, 'gff_type': {('kmer_hit',): 19269}}
+{'gff_id': {('chr13',): 2950}, 'gff_source_type': {('.', 'kmer_hit'): 2950}, 'gff_source': {('.',): 2950}, 'gff_type': {('kmer_hit',): 2950}}
+{'gff_id': {('chr14',): 1844}, 'gff_source_type': {('.', 'kmer_hit'): 1844}, 'gff_source': {('.',): 1844}, 'gff_type': {('kmer_hit',): 1844}}
+{'gff_id': {('chr15',): 17948}, 'gff_source_type': {('.', 'kmer_hit'): 17948}, 'gff_source': {('.',): 17948}, 'gff_type': {('kmer_hit',): 17948}}
+{'gff_id': {('chr16',): 11377}, 'gff_source_type': {('.', 'kmer_hit'): 11377}, 'gff_source': {('.',): 11377}, 'gff_type': {('kmer_hit',): 11377}}
+{'gff_id': {('chr17',): 9567}, 'gff_source_type': {('.', 'kmer_hit'): 9567}, 'gff_source': {('.',): 9567}, 'gff_type': {('kmer_hit',): 9567}}
+{'gff_id': {('chr18',): 5476}, 'gff_source_type': {('.', 'kmer_hit'): 5476}, 'gff_source': {('.',): 5476}, 'gff_type': {('kmer_hit',): 5476}}
+{'gff_id': {('chr19',): 8988}, 'gff_source_type': {('.', 'kmer_hit'): 8988}, 'gff_source': {('.',): 8988}, 'gff_type': {('kmer_hit',): 8988}}
+{'gff_id': {('chr20',): 25973}, 'gff_source_type': {('.', 'kmer_hit'): 25973}, 'gff_source': {('.',): 25973}, 'gff_type': {('kmer_hit',): 25973}}
+{'gff_id': {('chr21',): 4932}, 'gff_source_type': {('.', 'kmer_hit'): 4932}, 'gff_source': {('.',): 4932}, 'gff_type': {('kmer_hit',): 4932}}
+{'gff_id': {('chr22',): 6040}, 'gff_source_type': {('.', 'kmer_hit'): 6040}, 'gff_source': {('.',): 6040}, 'gff_type': {('kmer_hit',): 6040}}
+{'gff_id': {('chrX',): 5523}, 'gff_source_type': {('.', 'kmer_hit'): 5523}, 'gff_source': {('.',): 5523}, 'gff_type': {('kmer_hit',): 5523}}
+{'gff_id': {('chrY',): 1047}, 'gff_source_type': {('.', 'kmer_hit'): 1047}, 'gff_source': {('.',): 1047}, 'gff_type': {('kmer_hit',): 1047}}
+{'gff_id': {('chr1',): 50803}, 'gff_source_type': {('.', 'kmer_hit'): 50803}, 'gff_source': {('.',): 50803}, 'gff_type': {('kmer_hit',): 50803}}
+{'gff_id': {('chr2',): 53931}, 'gff_source_type': {('.', 'kmer_hit'): 53931}, 'gff_source': {('.',): 53931}, 'gff_type': {('kmer_hit',): 53931}}
+{'gff_id': {('chr3',): 44768}, 'gff_source_type': {('.', 'kmer_hit'): 44768}, 'gff_source': {('.',): 44768}, 'gff_type': {('kmer_hit',): 44768}}
+{'gff_id': {('chr4',): 1503}, 'gff_source_type': {('.', 'kmer_hit'): 1503}, 'gff_source': {('.',): 1503}, 'gff_type': {('kmer_hit',): 1503}}
+{'gff_id': {('chr5',): 84065}, 'gff_source_type': {('.', 'kmer_hit'): 84065}, 'gff_source': {('.',): 84065}, 'gff_type': {('kmer_hit',): 84065}}
+{'gff_id': {('chr6',): 10859}, 'gff_source_type': {('.', 'kmer_hit'): 10859}, 'gff_source': {('.',): 10859}, 'gff_type': {('kmer_hit',): 10859}}
+{'gff_id': {('chr7',): 66180}, 'gff_source_type': {('.', 'kmer_hit'): 66180}, 'gff_source': {('.',): 66180}, 'gff_type': {('kmer_hit',): 66180}}
+{'gff_id': {('chr8',): 15131}, 'gff_source_type': {('.', 'kmer_hit'): 15131}, 'gff_source': {('.',): 15131}, 'gff_type': {('kmer_hit',): 15131}}
+{'gff_id': {('chr9',): 63771}, 'gff_source_type': {('.', 'kmer_hit'): 63771}, 'gff_source': {('.',): 63771}, 'gff_type': {('kmer_hit',): 63771}}
+{'gff_id': {('chr10',): 24041}, 'gff_source_type': {('.', 'kmer_hit'): 24041}, 'gff_source': {('.',): 24041}, 'gff_type': {('kmer_hit',): 24041}}
+{'gff_id': {('chr11',): 36514}, 'gff_source_type': {('.', 'kmer_hit'): 36514}, 'gff_source': {('.',): 36514}, 'gff_type': {('kmer_hit',): 36514}}
+{'gff_id': {('chr12',): 29207}, 'gff_source_type': {('.', 'kmer_hit'): 29207}, 'gff_source': {('.',): 29207}, 'gff_type': {('kmer_hit',): 29207}}
+{'gff_id': {('chr13',): 9707}, 'gff_source_type': {('.', 'kmer_hit'): 9707}, 'gff_source': {('.',): 9707}, 'gff_type': {('kmer_hit',): 9707}}
+{'gff_id': {('chr14',): 7520}, 'gff_source_type': {('.', 'kmer_hit'): 7520}, 'gff_source': {('.',): 7520}, 'gff_type': {('kmer_hit',): 7520}}
+{'gff_id': {('chr15',): 33580}, 'gff_source_type': {('.', 'kmer_hit'): 33580}, 'gff_source': {('.',): 33580}, 'gff_type': {('kmer_hit',): 33580}}
+{'gff_id': {('chr16',): 30071}, 'gff_source_type': {('.', 'kmer_hit'): 30071}, 'gff_source': {('.',): 30071}, 'gff_type': {('kmer_hit',): 30071}}
+{'gff_id': {('chr17',): 33984}, 'gff_source_type': {('.', 'kmer_hit'): 33984}, 'gff_source': {('.',): 33984}, 'gff_type': {('kmer_hit',): 33984}}
+{'gff_id': {('chr18',): 80050}, 'gff_source_type': {('.', 'kmer_hit'): 80050}, 'gff_source': {('.',): 80050}, 'gff_type': {('kmer_hit',): 80050}}
+{'gff_id': {('chr19',): 17673}, 'gff_source_type': {('.', 'kmer_hit'): 17673}, 'gff_source': {('.',): 17673}, 'gff_type': {('kmer_hit',): 17673}}
+{'gff_id': {('chr20',): 107627}, 'gff_source_type': {('.', 'kmer_hit'): 107627}, 'gff_source': {('.',): 107627}, 'gff_type': {('kmer_hit',): 107627}}
+{'gff_id': {('chr21',): 17361}, 'gff_source_type': {('.', 'kmer_hit'): 17361}, 'gff_source': {('.',): 17361}, 'gff_type': {('kmer_hit',): 17361}}
+{'gff_id': {('chr22',): 24811}, 'gff_source_type': {('.', 'kmer_hit'): 24811}, 'gff_source': {('.',): 24811}, 'gff_type': {('kmer_hit',): 24811}}
+{'gff_id': {('chrX',): 22489}, 'gff_source_type': {('.', 'kmer_hit'): 22489}, 'gff_source': {('.',): 22489}, 'gff_type': {('kmer_hit',): 22489}}
+{'gff_id': {('chrY',): 4522}, 'gff_source_type': {('.', 'kmer_hit'): 4522}, 'gff_source': {('.',): 4522}, 'gff_type': {('kmer_hit',): 4522}}
+{'gff_id': {('chr1',): 73644}, 'gff_source_type': {('.', 'kmer_hit'): 73644}, 'gff_source': {('.',): 73644}, 'gff_type': {('kmer_hit',): 73644}}
+{'gff_id': {('chr2',): 10713}, 'gff_source_type': {('.', 'kmer_hit'): 10713}, 'gff_source': {('.',): 10713}, 'gff_type': {('kmer_hit',): 10713}}
+{'gff_id': {('chr3',): 34458}, 'gff_source_type': {('.', 'kmer_hit'): 34458}, 'gff_source': {('.',): 34458}, 'gff_type': {('kmer_hit',): 34458}}
+{'gff_id': {('chr4',): 1858}, 'gff_source_type': {('.', 'kmer_hit'): 1858}, 'gff_source': {('.',): 1858}, 'gff_type': {('kmer_hit',): 1858}}
+{'gff_id': {('chr5',): 89506}, 'gff_source_type': {('.', 'kmer_hit'): 89506}, 'gff_source': {('.',): 89506}, 'gff_type': {('kmer_hit',): 89506}}
+{'gff_id': {('chr6',): 8919}, 'gff_source_type': {('.', 'kmer_hit'): 8919}, 'gff_source': {('.',): 8919}, 'gff_type': {('kmer_hit',): 8919}}
+{'gff_id': {('chr7',): 52117}, 'gff_source_type': {('.', 'kmer_hit'): 52117}, 'gff_source': {('.',): 52117}, 'gff_type': {('kmer_hit',): 52117}}
+{'gff_id': {('chr8',): 10164}, 'gff_source_type': {('.', 'kmer_hit'): 10164}, 'gff_source': {('.',): 10164}, 'gff_type': {('kmer_hit',): 10164}}
+{'gff_id': {('chr9',): 33371}, 'gff_source_type': {('.', 'kmer_hit'): 33371}, 'gff_source': {('.',): 33371}, 'gff_type': {('kmer_hit',): 33371}}
+{'gff_id': {('chr10',): 21183}, 'gff_source_type': {('.', 'kmer_hit'): 21183}, 'gff_source': {('.',): 21183}, 'gff_type': {('kmer_hit',): 21183}}
+{'gff_id': {('chr11',): 41879}, 'gff_source_type': {('.', 'kmer_hit'): 41879}, 'gff_source': {('.',): 41879}, 'gff_type': {('kmer_hit',): 41879}}
+{'gff_id': {('chr12',): 26422}, 'gff_source_type': {('.', 'kmer_hit'): 26422}, 'gff_source': {('.',): 26422}, 'gff_type': {('kmer_hit',): 26422}}
+{'gff_id': {('chr13',): 9612}, 'gff_source_type': {('.', 'kmer_hit'): 9612}, 'gff_source': {('.',): 9612}, 'gff_type': {('kmer_hit',): 9612}}
+{'gff_id': {('chr14',): 5726}, 'gff_source_type': {('.', 'kmer_hit'): 5726}, 'gff_source': {('.',): 5726}, 'gff_type': {('kmer_hit',): 5726}}
+{'gff_id': {('chr15',): 49835}, 'gff_source_type': {('.', 'kmer_hit'): 49835}, 'gff_source': {('.',): 49835}, 'gff_type': {('kmer_hit',): 49835}}
+{'gff_id': {('chr16',): 16136}, 'gff_source_type': {('.', 'kmer_hit'): 16136}, 'gff_source': {('.',): 16136}, 'gff_type': {('kmer_hit',): 16136}}
+{'gff_id': {('chr17',): 46117}, 'gff_source_type': {('.', 'kmer_hit'): 46117}, 'gff_source': {('.',): 46117}, 'gff_type': {('kmer_hit',): 46117}}
+{'gff_id': {('chr18',): 24582}, 'gff_source_type': {('.', 'kmer_hit'): 24582}, 'gff_source': {('.',): 24582}, 'gff_type': {('kmer_hit',): 24582}}
+{'gff_id': {('chr19',): 14600}, 'gff_source_type': {('.', 'kmer_hit'): 14600}, 'gff_source': {('.',): 14600}, 'gff_type': {('kmer_hit',): 14600}}
+{'gff_id': {('chr20',): 70234}, 'gff_source_type': {('.', 'kmer_hit'): 70234}, 'gff_source': {('.',): 70234}, 'gff_type': {('kmer_hit',): 70234}}
+{'gff_id': {('chr21',): 19167}, 'gff_source_type': {('.', 'kmer_hit'): 19167}, 'gff_source': {('.',): 19167}, 'gff_type': {('kmer_hit',): 19167}}
+{'gff_id': {('chr22',): 21222}, 'gff_source_type': {('.', 'kmer_hit'): 21222}, 'gff_source': {('.',): 21222}, 'gff_type': {('kmer_hit',): 21222}}
+{'gff_id': {('chrX',): 22453}, 'gff_source_type': {('.', 'kmer_hit'): 22453}, 'gff_source': {('.',): 22453}, 'gff_type': {('kmer_hit',): 22453}}
+{'gff_id': {('chrY',): 5040}, 'gff_source_type': {('.', 'kmer_hit'): 5040}, 'gff_source': {('.',): 5040}, 'gff_type': {('kmer_hit',): 5040}}
+{'gff_id': {('chr1',): 29240}, 'gff_source_type': {('.', 'kmer_hit'): 29240}, 'gff_source': {('.',): 29240}, 'gff_type': {('kmer_hit',): 29240}}
+{'gff_id': {('chr2',): 2150}, 'gff_source_type': {('.', 'kmer_hit'): 2150}, 'gff_source': {('.',): 2150}, 'gff_type': {('kmer_hit',): 2150}}
+{'gff_id': {('chr3',): 25147}, 'gff_source_type': {('.', 'kmer_hit'): 25147}, 'gff_source': {('.',): 25147}, 'gff_type': {('kmer_hit',): 25147}}
+{'gff_id': {('chr4',): 668}, 'gff_source_type': {('.', 'kmer_hit'): 668}, 'gff_source': {('.',): 668}, 'gff_type': {('kmer_hit',): 668}}
+{'gff_id': {('chr5',): 50520}, 'gff_source_type': {('.', 'kmer_hit'): 50520}, 'gff_source': {('.',): 50520}, 'gff_type': {('kmer_hit',): 50520}}
+{'gff_id': {('chr6',): 4224}, 'gff_source_type': {('.', 'kmer_hit'): 4224}, 'gff_source': {('.',): 4224}, 'gff_type': {('kmer_hit',): 4224}}
+{'gff_id': {('chr7',): 15412}, 'gff_source_type': {('.', 'kmer_hit'): 15412}, 'gff_source': {('.',): 15412}, 'gff_type': {('kmer_hit',): 15412}}
+{'gff_id': {('chr8',): 2628}, 'gff_source_type': {('.', 'kmer_hit'): 2628}, 'gff_source': {('.',): 2628}, 'gff_type': {('kmer_hit',): 2628}}
+{'gff_id': {('chr9',): 5061}, 'gff_source_type': {('.', 'kmer_hit'): 5061}, 'gff_source': {('.',): 5061}, 'gff_type': {('kmer_hit',): 5061}}
+{'gff_id': {('chr10',): 47999}, 'gff_source_type': {('.', 'kmer_hit'): 47999}, 'gff_source': {('.',): 47999}, 'gff_type': {('kmer_hit',): 47999}}
+{'gff_id': {('chr11',): 6367}, 'gff_source_type': {('.', 'kmer_hit'): 6367}, 'gff_source': {('.',): 6367}, 'gff_type': {('kmer_hit',): 6367}}
+{'gff_id': {('chr12',): 15218}, 'gff_source_type': {('.', 'kmer_hit'): 15218}, 'gff_source': {('.',): 15218}, 'gff_type': {('kmer_hit',): 15218}}
+{'gff_id': {('chr13',): 1847}, 'gff_source_type': {('.', 'kmer_hit'): 1847}, 'gff_source': {('.',): 1847}, 'gff_type': {('kmer_hit',): 1847}}
+{'gff_id': {('chr14',): 1217}, 'gff_source_type': {('.', 'kmer_hit'): 1217}, 'gff_source': {('.',): 1217}, 'gff_type': {('kmer_hit',): 1217}}
+{'gff_id': {('chr15',): 12305}, 'gff_source_type': {('.', 'kmer_hit'): 12305}, 'gff_source': {('.',): 12305}, 'gff_type': {('kmer_hit',): 12305}}
+{'gff_id': {('chr16',): 9064}, 'gff_source_type': {('.', 'kmer_hit'): 9064}, 'gff_source': {('.',): 9064}, 'gff_type': {('kmer_hit',): 9064}}
+{'gff_id': {('chr17',): 6490}, 'gff_source_type': {('.', 'kmer_hit'): 6490}, 'gff_source': {('.',): 6490}, 'gff_type': {('kmer_hit',): 6490}}
+{'gff_id': {('chr18',): 1989}, 'gff_source_type': {('.', 'kmer_hit'): 1989}, 'gff_source': {('.',): 1989}, 'gff_type': {('kmer_hit',): 1989}}
+{'gff_id': {('chr19',): 6969}, 'gff_source_type': {('.', 'kmer_hit'): 6969}, 'gff_source': {('.',): 6969}, 'gff_type': {('kmer_hit',): 6969}}
+{'gff_id': {('chr20',): 18450}, 'gff_source_type': {('.', 'kmer_hit'): 18450}, 'gff_source': {('.',): 18450}, 'gff_type': {('kmer_hit',): 18450}}
+{'gff_id': {('chr21',): 2919}, 'gff_source_type': {('.', 'kmer_hit'): 2919}, 'gff_source': {('.',): 2919}, 'gff_type': {('kmer_hit',): 2919}}
+{'gff_id': {('chr22',): 3830}, 'gff_source_type': {('.', 'kmer_hit'): 3830}, 'gff_source': {('.',): 3830}, 'gff_type': {('kmer_hit',): 3830}}
+{'gff_id': {('chrX',): 3600}, 'gff_source_type': {('.', 'kmer_hit'): 3600}, 'gff_source': {('.',): 3600}, 'gff_type': {('kmer_hit',): 3600}}
+{'gff_id': {('chrY',): 553}, 'gff_source_type': {('.', 'kmer_hit'): 553}, 'gff_source': {('.',): 553}, 'gff_type': {('kmer_hit',): 553}}
+{'gff_id': {('chr1',): 39656}, 'gff_source_type': {('.', 'kmer_hit'): 39656}, 'gff_source': {('.',): 39656}, 'gff_type': {('kmer_hit',): 39656}}
+{'gff_id': {('chr2',): 50331}, 'gff_source_type': {('.', 'kmer_hit'): 50331}, 'gff_source': {('.',): 50331}, 'gff_type': {('kmer_hit',): 50331}}
+{'gff_id': {('chr3',): 36647}, 'gff_source_type': {('.', 'kmer_hit'): 36647}, 'gff_source': {('.',): 36647}, 'gff_type': {('kmer_hit',): 36647}}
+{'gff_id': {('chr4',): 1088}, 'gff_source_type': {('.', 'kmer_hit'): 1088}, 'gff_source': {('.',): 1088}, 'gff_type': {('kmer_hit',): 1088}}
+{'gff_id': {('chr5',): 68722}, 'gff_source_type': {('.', 'kmer_hit'): 68722}, 'gff_source': {('.',): 68722}, 'gff_type': {('kmer_hit',): 68722}}
+{'gff_id': {('chr6',): 8865}, 'gff_source_type': {('.', 'kmer_hit'): 8865}, 'gff_source': {('.',): 8865}, 'gff_type': {('kmer_hit',): 8865}}
+{'gff_id': {('chr7',): 54374}, 'gff_source_type': {('.', 'kmer_hit'): 54374}, 'gff_source': {('.',): 54374}, 'gff_type': {('kmer_hit',): 54374}}
+{'gff_id': {('chr8',): 12393}, 'gff_source_type': {('.', 'kmer_hit'): 12393}, 'gff_source': {('.',): 12393}, 'gff_type': {('kmer_hit',): 12393}}
+{'gff_id': {('chr9',): 54710}, 'gff_source_type': {('.', 'kmer_hit'): 54710}, 'gff_source': {('.',): 54710}, 'gff_type': {('kmer_hit',): 54710}}
+{'gff_id': {('chr10',): 18604}, 'gff_source_type': {('.', 'kmer_hit'): 18604}, 'gff_source': {('.',): 18604}, 'gff_type': {('kmer_hit',): 18604}}
+{'gff_id': {('chr11',): 29668}, 'gff_source_type': {('.', 'kmer_hit'): 29668}, 'gff_source': {('.',): 29668}, 'gff_type': {('kmer_hit',): 29668}}
+{'gff_id': {('chr12',): 23628}, 'gff_source_type': {('.', 'kmer_hit'): 23628}, 'gff_source': {('.',): 23628}, 'gff_type': {('kmer_hit',): 23628}}
+{'gff_id': {('chr13',): 7559}, 'gff_source_type': {('.', 'kmer_hit'): 7559}, 'gff_source': {('.',): 7559}, 'gff_type': {('kmer_hit',): 7559}}
+{'gff_id': {('chr14',): 6111}, 'gff_source_type': {('.', 'kmer_hit'): 6111}, 'gff_source': {('.',): 6111}, 'gff_type': {('kmer_hit',): 6111}}
+{'gff_id': {('chr15',): 23136}, 'gff_source_type': {('.', 'kmer_hit'): 23136}, 'gff_source': {('.',): 23136}, 'gff_type': {('kmer_hit',): 23136}}
+{'gff_id': {('chr16',): 25666}, 'gff_source_type': {('.', 'kmer_hit'): 25666}, 'gff_source': {('.',): 25666}, 'gff_type': {('kmer_hit',): 25666}}
+{'gff_id': {('chr17',): 28134}, 'gff_source_type': {('.', 'kmer_hit'): 28134}, 'gff_source': {('.',): 28134}, 'gff_type': {('kmer_hit',): 28134}}
+{'gff_id': {('chr18',): 67337}, 'gff_source_type': {('.', 'kmer_hit'): 67337}, 'gff_source': {('.',): 67337}, 'gff_type': {('kmer_hit',): 67337}}
+{'gff_id': {('chr19',): 14107}, 'gff_source_type': {('.', 'kmer_hit'): 14107}, 'gff_source': {('.',): 14107}, 'gff_type': {('kmer_hit',): 14107}}
+{'gff_id': {('chr20',): 90975}, 'gff_source_type': {('.', 'kmer_hit'): 90975}, 'gff_source': {('.',): 90975}, 'gff_type': {('kmer_hit',): 90975}}
+{'gff_id': {('chr21',): 13366}, 'gff_source_type': {('.', 'kmer_hit'): 13366}, 'gff_source': {('.',): 13366}, 'gff_type': {('kmer_hit',): 13366}}
+{'gff_id': {('chr22',): 20099}, 'gff_source_type': {('.', 'kmer_hit'): 20099}, 'gff_source': {('.',): 20099}, 'gff_type': {('kmer_hit',): 20099}}
+{'gff_id': {('chrX',): 18269}, 'gff_source_type': {('.', 'kmer_hit'): 18269}, 'gff_source': {('.',): 18269}, 'gff_type': {('kmer_hit',): 18269}}
+{'gff_id': {('chrY',): 3488}, 'gff_source_type': {('.', 'kmer_hit'): 3488}, 'gff_source': {('.',): 3488}, 'gff_type': {('kmer_hit',): 3488}}
+{'gff_id': {('chr1',): 60110}, 'gff_source_type': {('.', 'kmer_hit'): 60110}, 'gff_source': {('.',): 60110}, 'gff_type': {('kmer_hit',): 60110}}
+{'gff_id': {('chr2',): 8406}, 'gff_source_type': {('.', 'kmer_hit'): 8406}, 'gff_source': {('.',): 8406}, 'gff_type': {('kmer_hit',): 8406}}
+{'gff_id': {('chr3',): 27188}, 'gff_source_type': {('.', 'kmer_hit'): 27188}, 'gff_source': {('.',): 27188}, 'gff_type': {('kmer_hit',): 27188}}
+{'gff_id': {('chr4',): 1418}, 'gff_source_type': {('.', 'kmer_hit'): 1418}, 'gff_source': {('.',): 1418}, 'gff_type': {('kmer_hit',): 1418}}
+{'gff_id': {('chr5',): 74947}, 'gff_source_type': {('.', 'kmer_hit'): 74947}, 'gff_source': {('.',): 74947}, 'gff_type': {('kmer_hit',): 74947}}
+{'gff_id': {('chr6',): 7019}, 'gff_source_type': {('.', 'kmer_hit'): 7019}, 'gff_source': {('.',): 7019}, 'gff_type': {('kmer_hit',): 7019}}
+{'gff_id': {('chr7',): 42126}, 'gff_source_type': {('.', 'kmer_hit'): 42126}, 'gff_source': {('.',): 42126}, 'gff_type': {('kmer_hit',): 42126}}
+{'gff_id': {('chr8',): 7724}, 'gff_source_type': {('.', 'kmer_hit'): 7724}, 'gff_source': {('.',): 7724}, 'gff_type': {('kmer_hit',): 7724}}
+{'gff_id': {('chr9',): 27193}, 'gff_source_type': {('.', 'kmer_hit'): 27193}, 'gff_source': {('.',): 27193}, 'gff_type': {('kmer_hit',): 27193}}
+{'gff_id': {('chr10',): 15702}, 'gff_source_type': {('.', 'kmer_hit'): 15702}, 'gff_source': {('.',): 15702}, 'gff_type': {('kmer_hit',): 15702}}
+{'gff_id': {('chr11',): 34430}, 'gff_source_type': {('.', 'kmer_hit'): 34430}, 'gff_source': {('.',): 34430}, 'gff_type': {('kmer_hit',): 34430}}
+{'gff_id': {('chr12',): 21022}, 'gff_source_type': {('.', 'kmer_hit'): 21022}, 'gff_source': {('.',): 21022}, 'gff_type': {('kmer_hit',): 21022}}
+{'gff_id': {('chr13',): 7611}, 'gff_source_type': {('.', 'kmer_hit'): 7611}, 'gff_source': {('.',): 7611}, 'gff_type': {('kmer_hit',): 7611}}
+{'gff_id': {('chr14',): 4620}, 'gff_source_type': {('.', 'kmer_hit'): 4620}, 'gff_source': {('.',): 4620}, 'gff_type': {('kmer_hit',): 4620}}
+{'gff_id': {('chr15',): 38210}, 'gff_source_type': {('.', 'kmer_hit'): 38210}, 'gff_source': {('.',): 38210}, 'gff_type': {('kmer_hit',): 38210}}
+{'gff_id': {('chr16',): 12986}, 'gff_source_type': {('.', 'kmer_hit'): 12986}, 'gff_source': {('.',): 12986}, 'gff_type': {('kmer_hit',): 12986}}
+{'gff_id': {('chr17',): 38818}, 'gff_source_type': {('.', 'kmer_hit'): 38818}, 'gff_source': {('.',): 38818}, 'gff_type': {('kmer_hit',): 38818}}
+{'gff_id': {('chr18',): 19780}, 'gff_source_type': {('.', 'kmer_hit'): 19780}, 'gff_source': {('.',): 19780}, 'gff_type': {('kmer_hit',): 19780}}
+{'gff_id': {('chr19',): 11571}, 'gff_source_type': {('.', 'kmer_hit'): 11571}, 'gff_source': {('.',): 11571}, 'gff_type': {('kmer_hit',): 11571}}
+{'gff_id': {('chr20',): 58159}, 'gff_source_type': {('.', 'kmer_hit'): 58159}, 'gff_source': {('.',): 58159}, 'gff_type': {('kmer_hit',): 58159}}
+{'gff_id': {('chr21',): 15646}, 'gff_source_type': {('.', 'kmer_hit'): 15646}, 'gff_source': {('.',): 15646}, 'gff_type': {('kmer_hit',): 15646}}
+{'gff_id': {('chr22',): 17353}, 'gff_source_type': {('.', 'kmer_hit'): 17353}, 'gff_source': {('.',): 17353}, 'gff_type': {('kmer_hit',): 17353}}
+{'gff_id': {('chrX',): 18458}, 'gff_source_type': {('.', 'kmer_hit'): 18458}, 'gff_source': {('.',): 18458}, 'gff_type': {('kmer_hit',): 18458}}
+{'gff_id': {('chrY',): 4078}, 'gff_source_type': {('.', 'kmer_hit'): 4078}, 'gff_source': {('.',): 4078}, 'gff_type': {('kmer_hit',): 4078}}
+{'gff_id': {('chr1',): 25395}, 'gff_source_type': {('.', 'kmer_hit'): 25395}, 'gff_source': {('.',): 25395}, 'gff_type': {('kmer_hit',): 25395}}
+{'gff_id': {('chr2',): 1552}, 'gff_source_type': {('.', 'kmer_hit'): 1552}, 'gff_source': {('.',): 1552}, 'gff_type': {('kmer_hit',): 1552}}
+{'gff_id': {('chr3',): 20714}, 'gff_source_type': {('.', 'kmer_hit'): 20714}, 'gff_source': {('.',): 20714}, 'gff_type': {('kmer_hit',): 20714}}
+{'gff_id': {('chr4',): 535}, 'gff_source_type': {('.', 'kmer_hit'): 535}, 'gff_source': {('.',): 535}, 'gff_type': {('kmer_hit',): 535}}
+{'gff_id': {('chr5',): 42902}, 'gff_source_type': {('.', 'kmer_hit'): 42902}, 'gff_source': {('.',): 42902}, 'gff_type': {('kmer_hit',): 42902}}
+{'gff_id': {('chr6',): 3380}, 'gff_source_type': {('.', 'kmer_hit'): 3380}, 'gff_source': {('.',): 3380}, 'gff_type': {('kmer_hit',): 3380}}
+{'gff_id': {('chr7',): 11785}, 'gff_source_type': {('.', 'kmer_hit'): 11785}, 'gff_source': {('.',): 11785}, 'gff_type': {('kmer_hit',): 11785}}
+{'gff_id': {('chr8',): 2043}, 'gff_source_type': {('.', 'kmer_hit'): 2043}, 'gff_source': {('.',): 2043}, 'gff_type': {('kmer_hit',): 2043}}
+{'gff_id': {('chr9',): 3507}, 'gff_source_type': {('.', 'kmer_hit'): 3507}, 'gff_source': {('.',): 3507}, 'gff_type': {('kmer_hit',): 3507}}
+{'gff_id': {('chr10',): 41312}, 'gff_source_type': {('.', 'kmer_hit'): 41312}, 'gff_source': {('.',): 41312}, 'gff_type': {('kmer_hit',): 41312}}
+{'gff_id': {('chr11',): 4840}, 'gff_source_type': {('.', 'kmer_hit'): 4840}, 'gff_source': {('.',): 4840}, 'gff_type': {('kmer_hit',): 4840}}
+{'gff_id': {('chr12',): 12528}, 'gff_source_type': {('.', 'kmer_hit'): 12528}, 'gff_source': {('.',): 12528}, 'gff_type': {('kmer_hit',): 12528}}
+{'gff_id': {('chr13',): 1311}, 'gff_source_type': {('.', 'kmer_hit'): 1311}, 'gff_source': {('.',): 1311}, 'gff_type': {('kmer_hit',): 1311}}
+{'gff_id': {('chr14',): 913}, 'gff_source_type': {('.', 'kmer_hit'): 913}, 'gff_source': {('.',): 913}, 'gff_type': {('kmer_hit',): 913}}
+{'gff_id': {('chr15',): 8947}, 'gff_source_type': {('.', 'kmer_hit'): 8947}, 'gff_source': {('.',): 8947}, 'gff_type': {('kmer_hit',): 8947}}
+{'gff_id': {('chr16',): 7860}, 'gff_source_type': {('.', 'kmer_hit'): 7860}, 'gff_source': {('.',): 7860}, 'gff_type': {('kmer_hit',): 7860}}
+{'gff_id': {('chr17',): 4842}, 'gff_source_type': {('.', 'kmer_hit'): 4842}, 'gff_source': {('.',): 4842}, 'gff_type': {('kmer_hit',): 4842}}
+{'gff_id': {('chr18',): 1352}, 'gff_source_type': {('.', 'kmer_hit'): 1352}, 'gff_source': {('.',): 1352}, 'gff_type': {('kmer_hit',): 1352}}
+{'gff_id': {('chr19',): 5903}, 'gff_source_type': {('.', 'kmer_hit'): 5903}, 'gff_source': {('.',): 5903}, 'gff_type': {('kmer_hit',): 5903}}
+{'gff_id': {('chr20',): 14943}, 'gff_source_type': {('.', 'kmer_hit'): 14943}, 'gff_source': {('.',): 14943}, 'gff_type': {('kmer_hit',): 14943}}
+{'gff_id': {('chr21',): 1853}, 'gff_source_type': {('.', 'kmer_hit'): 1853}, 'gff_source': {('.',): 1853}, 'gff_type': {('kmer_hit',): 1853}}
+{'gff_id': {('chr22',): 2699}, 'gff_source_type': {('.', 'kmer_hit'): 2699}, 'gff_source': {('.',): 2699}, 'gff_type': {('kmer_hit',): 2699}}
+{'gff_id': {('chrX',): 2651}, 'gff_source_type': {('.', 'kmer_hit'): 2651}, 'gff_source': {('.',): 2651}, 'gff_type': {('kmer_hit',): 2651}}
+{'gff_id': {('chrY',): 301}, 'gff_source_type': {('.', 'kmer_hit'): 301}, 'gff_source': {('.',): 301}, 'gff_type': {('kmer_hit',): 301}}
+{'gff_id': {('chr1',): 31082}, 'gff_source_type': {('.', 'kmer_hit'): 31082}, 'gff_source': {('.',): 31082}, 'gff_type': {('kmer_hit',): 31082}}
+{'gff_id': {('chr2',): 47216}, 'gff_source_type': {('.', 'kmer_hit'): 47216}, 'gff_source': {('.',): 47216}, 'gff_type': {('kmer_hit',): 47216}}
+{'gff_id': {('chr3',): 30543}, 'gff_source_type': {('.', 'kmer_hit'): 30543}, 'gff_source': {('.',): 30543}, 'gff_type': {('kmer_hit',): 30543}}
+{'gff_id': {('chr4',): 832}, 'gff_source_type': {('.', 'kmer_hit'): 832}, 'gff_source': {('.',): 832}, 'gff_type': {('kmer_hit',): 832}}
+{'gff_id': {('chr5',): 56403}, 'gff_source_type': {('.', 'kmer_hit'): 56403}, 'gff_source': {('.',): 56403}, 'gff_type': {('kmer_hit',): 56403}}
+{'gff_id': {('chr6',): 7369}, 'gff_source_type': {('.', 'kmer_hit'): 7369}, 'gff_source': {('.',): 7369}, 'gff_type': {('kmer_hit',): 7369}}
+{'gff_id': {('chr7',): 45273}, 'gff_source_type': {('.', 'kmer_hit'): 45273}, 'gff_source': {('.',): 45273}, 'gff_type': {('kmer_hit',): 45273}}
+{'gff_id': {('chr8',): 10160}, 'gff_source_type': {('.', 'kmer_hit'): 10160}, 'gff_source': {('.',): 10160}, 'gff_type': {('kmer_hit',): 10160}}
+{'gff_id': {('chr9',): 47257}, 'gff_source_type': {('.', 'kmer_hit'): 47257}, 'gff_source': {('.',): 47257}, 'gff_type': {('kmer_hit',): 47257}}
+{'gff_id': {('chr10',): 14561}, 'gff_source_type': {('.', 'kmer_hit'): 14561}, 'gff_source': {('.',): 14561}, 'gff_type': {('kmer_hit',): 14561}}
+{'gff_id': {('chr11',): 24208}, 'gff_source_type': {('.', 'kmer_hit'): 24208}, 'gff_source': {('.',): 24208}, 'gff_type': {('kmer_hit',): 24208}}
+{'gff_id': {('chr12',): 19315}, 'gff_source_type': {('.', 'kmer_hit'): 19315}, 'gff_source': {('.',): 19315}, 'gff_type': {('kmer_hit',): 19315}}
+{'gff_id': {('chr13',): 5895}, 'gff_source_type': {('.', 'kmer_hit'): 5895}, 'gff_source': {('.',): 5895}, 'gff_type': {('kmer_hit',): 5895}}
+{'gff_id': {('chr14',): 4995}, 'gff_source_type': {('.', 'kmer_hit'): 4995}, 'gff_source': {('.',): 4995}, 'gff_type': {('kmer_hit',): 4995}}
+{'gff_id': {('chr15',): 16998}, 'gff_source_type': {('.', 'kmer_hit'): 16998}, 'gff_source': {('.',): 16998}, 'gff_type': {('kmer_hit',): 16998}}
+{'gff_id': {('chr16',): 21993}, 'gff_source_type': {('.', 'kmer_hit'): 21993}, 'gff_source': {('.',): 21993}, 'gff_type': {('kmer_hit',): 21993}}
+{'gff_id': {('chr17',): 22889}, 'gff_source_type': {('.', 'kmer_hit'): 22889}, 'gff_source': {('.',): 22889}, 'gff_type': {('kmer_hit',): 22889}}
+{'gff_id': {('chr18',): 57203}, 'gff_source_type': {('.', 'kmer_hit'): 57203}, 'gff_source': {('.',): 57203}, 'gff_type': {('kmer_hit',): 57203}}
+{'gff_id': {('chr19',): 11300}, 'gff_source_type': {('.', 'kmer_hit'): 11300}, 'gff_source': {('.',): 11300}, 'gff_type': {('kmer_hit',): 11300}}
+{'gff_id': {('chr20',): 77597}, 'gff_source_type': {('.', 'kmer_hit'): 77597}, 'gff_source': {('.',): 77597}, 'gff_type': {('kmer_hit',): 77597}}
+{'gff_id': {('chr21',): 10410}, 'gff_source_type': {('.', 'kmer_hit'): 10410}, 'gff_source': {('.',): 10410}, 'gff_type': {('kmer_hit',): 10410}}
+{'gff_id': {('chr22',): 16431}, 'gff_source_type': {('.', 'kmer_hit'): 16431}, 'gff_source': {('.',): 16431}, 'gff_type': {('kmer_hit',): 16431}}
+{'gff_id': {('chrX',): 14936}, 'gff_source_type': {('.', 'kmer_hit'): 14936}, 'gff_source': {('.',): 14936}, 'gff_type': {('kmer_hit',): 14936}}
+{'gff_id': {('chrY',): 2693}, 'gff_source_type': {('.', 'kmer_hit'): 2693}, 'gff_source': {('.',): 2693}, 'gff_type': {('kmer_hit',): 2693}}
+{'gff_id': {('chr1',): 49333}, 'gff_source_type': {('.', 'kmer_hit'): 49333}, 'gff_source': {('.',): 49333}, 'gff_type': {('kmer_hit',): 49333}}
+{'gff_id': {('chr2',): 6692}, 'gff_source_type': {('.', 'kmer_hit'): 6692}, 'gff_source': {('.',): 6692}, 'gff_type': {('kmer_hit',): 6692}}
+{'gff_id': {('chr3',): 21303}, 'gff_source_type': {('.', 'kmer_hit'): 21303}, 'gff_source': {('.',): 21303}, 'gff_type': {('kmer_hit',): 21303}}
+{'gff_id': {('chr4',): 1153}, 'gff_source_type': {('.', 'kmer_hit'): 1153}, 'gff_source': {('.',): 1153}, 'gff_type': {('kmer_hit',): 1153}}
+{'gff_id': {('chr5',): 62705}, 'gff_source_type': {('.', 'kmer_hit'): 62705}, 'gff_source': {('.',): 62705}, 'gff_type': {('kmer_hit',): 62705}}
+{'gff_id': {('chr6',): 5522}, 'gff_source_type': {('.', 'kmer_hit'): 5522}, 'gff_source': {('.',): 5522}, 'gff_type': {('kmer_hit',): 5522}}
+{'gff_id': {('chr7',): 33816}, 'gff_source_type': {('.', 'kmer_hit'): 33816}, 'gff_source': {('.',): 33816}, 'gff_type': {('kmer_hit',): 33816}}
+{'gff_id': {('chr8',): 5934}, 'gff_source_type': {('.', 'kmer_hit'): 5934}, 'gff_source': {('.',): 5934}, 'gff_type': {('kmer_hit',): 5934}}
+{'gff_id': {('chr9',): 22385}, 'gff_source_type': {('.', 'kmer_hit'): 22385}, 'gff_source': {('.',): 22385}, 'gff_type': {('kmer_hit',): 22385}}
+{'gff_id': {('chr10',): 11887}, 'gff_source_type': {('.', 'kmer_hit'): 11887}, 'gff_source': {('.',): 11887}, 'gff_type': {('kmer_hit',): 11887}}
+{'gff_id': {('chr11',): 28320}, 'gff_source_type': {('.', 'kmer_hit'): 28320}, 'gff_source': {('.',): 28320}, 'gff_type': {('kmer_hit',): 28320}}
+{'gff_id': {('chr12',): 16725}, 'gff_source_type': {('.', 'kmer_hit'): 16725}, 'gff_source': {('.',): 16725}, 'gff_type': {('kmer_hit',): 16725}}
+{'gff_id': {('chr13',): 6123}, 'gff_source_type': {('.', 'kmer_hit'): 6123}, 'gff_source': {('.',): 6123}, 'gff_type': {('kmer_hit',): 6123}}
+{'gff_id': {('chr14',): 3778}, 'gff_source_type': {('.', 'kmer_hit'): 3778}, 'gff_source': {('.',): 3778}, 'gff_type': {('kmer_hit',): 3778}}
+{'gff_id': {('chr15',): 28244}, 'gff_source_type': {('.', 'kmer_hit'): 28244}, 'gff_source': {('.',): 28244}, 'gff_type': {('kmer_hit',): 28244}}
+{'gff_id': {('chr16',): 10491}, 'gff_source_type': {('.', 'kmer_hit'): 10491}, 'gff_source': {('.',): 10491}, 'gff_type': {('kmer_hit',): 10491}}
+{'gff_id': {('chr17',): 32698}, 'gff_source_type': {('.', 'kmer_hit'): 32698}, 'gff_source': {('.',): 32698}, 'gff_type': {('kmer_hit',): 32698}}
+{'gff_id': {('chr18',): 16032}, 'gff_source_type': {('.', 'kmer_hit'): 16032}, 'gff_source': {('.',): 16032}, 'gff_type': {('kmer_hit',): 16032}}
+{'gff_id': {('chr19',): 9148}, 'gff_source_type': {('.', 'kmer_hit'): 9148}, 'gff_source': {('.',): 9148}, 'gff_type': {('kmer_hit',): 9148}}
+{'gff_id': {('chr20',): 47955}, 'gff_source_type': {('.', 'kmer_hit'): 47955}, 'gff_source': {('.',): 47955}, 'gff_type': {('kmer_hit',): 47955}}
+{'gff_id': {('chr21',): 12780}, 'gff_source_type': {('.', 'kmer_hit'): 12780}, 'gff_source': {('.',): 12780}, 'gff_type': {('kmer_hit',): 12780}}
+{'gff_id': {('chr22',): 14159}, 'gff_source_type': {('.', 'kmer_hit'): 14159}, 'gff_source': {('.',): 14159}, 'gff_type': {('kmer_hit',): 14159}}
+{'gff_id': {('chrX',): 15311}, 'gff_source_type': {('.', 'kmer_hit'): 15311}, 'gff_source': {('.',): 15311}, 'gff_type': {('kmer_hit',): 15311}}
+{'gff_id': {('chrY',): 3334}, 'gff_source_type': {('.', 'kmer_hit'): 3334}, 'gff_source': {('.',): 3334}, 'gff_type': {('kmer_hit',): 3334}}
+{'gff_id': {('chr1',): 23162}, 'gff_source_type': {('.', 'kmer_hit'): 23162}, 'gff_source': {('.',): 23162}, 'gff_type': {('kmer_hit',): 23162}}
+{'gff_id': {('chr2',): 1145}, 'gff_source_type': {('.', 'kmer_hit'): 1145}, 'gff_source': {('.',): 1145}, 'gff_type': {('kmer_hit',): 1145}}
+{'gff_id': {('chr3',): 16917}, 'gff_source_type': {('.', 'kmer_hit'): 16917}, 'gff_source': {('.',): 16917}, 'gff_type': {('kmer_hit',): 16917}}
+{'gff_id': {('chr4',): 446}, 'gff_source_type': {('.', 'kmer_hit'): 446}, 'gff_source': {('.',): 446}, 'gff_type': {('kmer_hit',): 446}}
+{'gff_id': {('chr5',): 36912}, 'gff_source_type': {('.', 'kmer_hit'): 36912}, 'gff_source': {('.',): 36912}, 'gff_type': {('kmer_hit',): 36912}}
+{'gff_id': {('chr6',): 2688}, 'gff_source_type': {('.', 'kmer_hit'): 2688}, 'gff_source': {('.',): 2688}, 'gff_type': {('kmer_hit',): 2688}}
+{'gff_id': {('chr7',): 9194}, 'gff_source_type': {('.', 'kmer_hit'): 9194}, 'gff_source': {('.',): 9194}, 'gff_type': {('kmer_hit',): 9194}}
+{'gff_id': {('chr8',): 1616}, 'gff_source_type': {('.', 'kmer_hit'): 1616}, 'gff_source': {('.',): 1616}, 'gff_type': {('kmer_hit',): 1616}}
+{'gff_id': {('chr9',): 2613}, 'gff_source_type': {('.', 'kmer_hit'): 2613}, 'gff_source': {('.',): 2613}, 'gff_type': {('kmer_hit',): 2613}}
+{'gff_id': {('chr10',): 35458}, 'gff_source_type': {('.', 'kmer_hit'): 35458}, 'gff_source': {('.',): 35458}, 'gff_type': {('kmer_hit',): 35458}}
+{'gff_id': {('chr11',): 3862}, 'gff_source_type': {('.', 'kmer_hit'): 3862}, 'gff_source': {('.',): 3862}, 'gff_type': {('kmer_hit',): 3862}}
+{'gff_id': {('chr12',): 10520}, 'gff_source_type': {('.', 'kmer_hit'): 10520}, 'gff_source': {('.',): 10520}, 'gff_type': {('kmer_hit',): 10520}}
+{'gff_id': {('chr13',): 1016}, 'gff_source_type': {('.', 'kmer_hit'): 1016}, 'gff_source': {('.',): 1016}, 'gff_type': {('kmer_hit',): 1016}}
+{'gff_id': {('chr14',): 727}, 'gff_source_type': {('.', 'kmer_hit'): 727}, 'gff_source': {('.',): 727}, 'gff_type': {('kmer_hit',): 727}}
+{'gff_id': {('chr15',): 6639}, 'gff_source_type': {('.', 'kmer_hit'): 6639}, 'gff_source': {('.',): 6639}, 'gff_type': {('kmer_hit',): 6639}}
+{'gff_id': {('chr16',): 6942}, 'gff_source_type': {('.', 'kmer_hit'): 6942}, 'gff_source': {('.',): 6942}, 'gff_type': {('kmer_hit',): 6942}}
+{'gff_id': {('chr17',): 3821}, 'gff_source_type': {('.', 'kmer_hit'): 3821}, 'gff_source': {('.',): 3821}, 'gff_type': {('kmer_hit',): 3821}}
+{'gff_id': {('chr18',): 866}, 'gff_source_type': {('.', 'kmer_hit'): 866}, 'gff_source': {('.',): 866}, 'gff_type': {('kmer_hit',): 866}}
+{'gff_id': {('chr19',): 5203}, 'gff_source_type': {('.', 'kmer_hit'): 5203}, 'gff_source': {('.',): 5203}, 'gff_type': {('kmer_hit',): 5203}}
+{'gff_id': {('chr20',): 12688}, 'gff_source_type': {('.', 'kmer_hit'): 12688}, 'gff_source': {('.',): 12688}, 'gff_type': {('kmer_hit',): 12688}}
+{'gff_id': {('chr21',): 1358}, 'gff_source_type': {('.', 'kmer_hit'): 1358}, 'gff_source': {('.',): 1358}, 'gff_type': {('kmer_hit',): 1358}}
+{'gff_id': {('chr22',): 2069}, 'gff_source_type': {('.', 'kmer_hit'): 2069}, 'gff_source': {('.',): 2069}, 'gff_type': {('kmer_hit',): 2069}}
+{'gff_id': {('chrX',): 2152}, 'gff_source_type': {('.', 'kmer_hit'): 2152}, 'gff_source': {('.',): 2152}, 'gff_type': {('kmer_hit',): 2152}}
+{'gff_id': {('chrY',): 215}, 'gff_source_type': {('.', 'kmer_hit'): 215}, 'gff_source': {('.',): 215}, 'gff_type': {('kmer_hit',): 215}}
+{'gff_id': {('chr1',): 24006}, 'gff_source_type': {('.', 'kmer_hit'): 24006}, 'gff_source': {('.',): 24006}, 'gff_type': {('kmer_hit',): 24006}}
+{'gff_id': {('chr2',): 44411}, 'gff_source_type': {('.', 'kmer_hit'): 44411}, 'gff_source': {('.',): 44411}, 'gff_type': {('kmer_hit',): 44411}}
+{'gff_id': {('chr3',): 25025}, 'gff_source_type': {('.', 'kmer_hit'): 25025}, 'gff_source': {('.',): 25025}, 'gff_type': {('kmer_hit',): 25025}}
+{'gff_id': {('chr4',): 633}, 'gff_source_type': {('.', 'kmer_hit'): 633}, 'gff_source': {('.',): 633}, 'gff_type': {('kmer_hit',): 633}}
+{'gff_id': {('chr5',): 45915}, 'gff_source_type': {('.', 'kmer_hit'): 45915}, 'gff_source': {('.',): 45915}, 'gff_type': {('kmer_hit',): 45915}}
+{'gff_id': {('chr6',): 6067}, 'gff_source_type': {('.', 'kmer_hit'): 6067}, 'gff_source': {('.',): 6067}, 'gff_type': {('kmer_hit',): 6067}}
+{'gff_id': {('chr7',): 37286}, 'gff_source_type': {('.', 'kmer_hit'): 37286}, 'gff_source': {('.',): 37286}, 'gff_type': {('kmer_hit',): 37286}}
+{'gff_id': {('chr8',): 8404}, 'gff_source_type': {('.', 'kmer_hit'): 8404}, 'gff_source': {('.',): 8404}, 'gff_type': {('kmer_hit',): 8404}}
+{'gff_id': {('chr9',): 40756}, 'gff_source_type': {('.', 'kmer_hit'): 40756}, 'gff_source': {('.',): 40756}, 'gff_type': {('kmer_hit',): 40756}}
+{'gff_id': {('chr10',): 11196}, 'gff_source_type': {('.', 'kmer_hit'): 11196}, 'gff_source': {('.',): 11196}, 'gff_type': {('kmer_hit',): 11196}}
+{'gff_id': {('chr11',): 19536}, 'gff_source_type': {('.', 'kmer_hit'): 19536}, 'gff_source': {('.',): 19536}, 'gff_type': {('kmer_hit',): 19536}}
+{'gff_id': {('chr12',): 15729}, 'gff_source_type': {('.', 'kmer_hit'): 15729}, 'gff_source': {('.',): 15729}, 'gff_type': {('kmer_hit',): 15729}}
+{'gff_id': {('chr13',): 4459}, 'gff_source_type': {('.', 'kmer_hit'): 4459}, 'gff_source': {('.',): 4459}, 'gff_type': {('kmer_hit',): 4459}}
+{'gff_id': {('chr14',): 4042}, 'gff_source_type': {('.', 'kmer_hit'): 4042}, 'gff_source': {('.',): 4042}, 'gff_type': {('kmer_hit',): 4042}}
+{'gff_id': {('chr15',): 11927}, 'gff_source_type': {('.', 'kmer_hit'): 11927}, 'gff_source': {('.',): 11927}, 'gff_type': {('kmer_hit',): 11927}}
+{'gff_id': {('chr16',): 18832}, 'gff_source_type': {('.', 'kmer_hit'): 18832}, 'gff_source': {('.',): 18832}, 'gff_type': {('kmer_hit',): 18832}}
+{'gff_id': {('chr17',): 18353}, 'gff_source_type': {('.', 'kmer_hit'): 18353}, 'gff_source': {('.',): 18353}, 'gff_type': {('kmer_hit',): 18353}}
+{'gff_id': {('chr18',): 48124}, 'gff_source_type': {('.', 'kmer_hit'): 48124}, 'gff_source': {('.',): 48124}, 'gff_type': {('kmer_hit',): 48124}}
+{'gff_id': {('chr19',): 8964}, 'gff_source_type': {('.', 'kmer_hit'): 8964}, 'gff_source': {('.',): 8964}, 'gff_type': {('kmer_hit',): 8964}}
+{'gff_id': {('chr20',): 66332}, 'gff_source_type': {('.', 'kmer_hit'): 66332}, 'gff_source': {('.',): 66332}, 'gff_type': {('kmer_hit',): 66332}}
+{'gff_id': {('chr21',): 7931}, 'gff_source_type': {('.', 'kmer_hit'): 7931}, 'gff_source': {('.',): 7931}, 'gff_type': {('kmer_hit',): 7931}}
+{'gff_id': {('chr22',): 13333}, 'gff_source_type': {('.', 'kmer_hit'): 13333}, 'gff_source': {('.',): 13333}, 'gff_type': {('kmer_hit',): 13333}}
+{'gff_id': {('chrX',): 12123}, 'gff_source_type': {('.', 'kmer_hit'): 12123}, 'gff_source': {('.',): 12123}, 'gff_type': {('kmer_hit',): 12123}}
+{'gff_id': {('chrY',): 2035}, 'gff_source_type': {('.', 'kmer_hit'): 2035}, 'gff_source': {('.',): 2035}, 'gff_type': {('kmer_hit',): 2035}}
+{'gff_id': {('chr1',): 40049}, 'gff_source_type': {('.', 'kmer_hit'): 40049}, 'gff_source': {('.',): 40049}, 'gff_type': {('kmer_hit',): 40049}}
+{'gff_id': {('chr2',): 5302}, 'gff_source_type': {('.', 'kmer_hit'): 5302}, 'gff_source': {('.',): 5302}, 'gff_type': {('kmer_hit',): 5302}}
+{'gff_id': {('chr3',): 16424}, 'gff_source_type': {('.', 'kmer_hit'): 16424}, 'gff_source': {('.',): 16424}, 'gff_type': {('kmer_hit',): 16424}}
+{'gff_id': {('chr4',): 942}, 'gff_source_type': {('.', 'kmer_hit'): 942}, 'gff_source': {('.',): 942}, 'gff_type': {('kmer_hit',): 942}}
+{'gff_id': {('chr5',): 52454}, 'gff_source_type': {('.', 'kmer_hit'): 52454}, 'gff_source': {('.',): 52454}, 'gff_type': {('kmer_hit',): 52454}}
+{'gff_id': {('chr6',): 4316}, 'gff_source_type': {('.', 'kmer_hit'): 4316}, 'gff_source': {('.',): 4316}, 'gff_type': {('kmer_hit',): 4316}}
+{'gff_id': {('chr7',): 27176}, 'gff_source_type': {('.', 'kmer_hit'): 27176}, 'gff_source': {('.',): 27176}, 'gff_type': {('kmer_hit',): 27176}}
+{'gff_id': {('chr8',): 4435}, 'gff_source_type': {('.', 'kmer_hit'): 4435}, 'gff_source': {('.',): 4435}, 'gff_type': {('kmer_hit',): 4435}}
+{'gff_id': {('chr9',): 18448}, 'gff_source_type': {('.', 'kmer_hit'): 18448}, 'gff_source': {('.',): 18448}, 'gff_type': {('kmer_hit',): 18448}}
+{'gff_id': {('chr10',): 9232}, 'gff_source_type': {('.', 'kmer_hit'): 9232}, 'gff_source': {('.',): 9232}, 'gff_type': {('kmer_hit',): 9232}}
+{'gff_id': {('chr11',): 23506}, 'gff_source_type': {('.', 'kmer_hit'): 23506}, 'gff_source': {('.',): 23506}, 'gff_type': {('kmer_hit',): 23506}}
+{'gff_id': {('chr12',): 13319}, 'gff_source_type': {('.', 'kmer_hit'): 13319}, 'gff_source': {('.',): 13319}, 'gff_type': {('kmer_hit',): 13319}}
+{'gff_id': {('chr13',): 4903}, 'gff_source_type': {('.', 'kmer_hit'): 4903}, 'gff_source': {('.',): 4903}, 'gff_type': {('kmer_hit',): 4903}}
+{'gff_id': {('chr14',): 3097}, 'gff_source_type': {('.', 'kmer_hit'): 3097}, 'gff_source': {('.',): 3097}, 'gff_type': {('kmer_hit',): 3097}}
+{'gff_id': {('chr15',): 20649}, 'gff_source_type': {('.', 'kmer_hit'): 20649}, 'gff_source': {('.',): 20649}, 'gff_type': {('kmer_hit',): 20649}}
+{'gff_id': {('chr16',): 8464}, 'gff_source_type': {('.', 'kmer_hit'): 8464}, 'gff_source': {('.',): 8464}, 'gff_type': {('kmer_hit',): 8464}}
+{'gff_id': {('chr17',): 27540}, 'gff_source_type': {('.', 'kmer_hit'): 27540}, 'gff_source': {('.',): 27540}, 'gff_type': {('kmer_hit',): 27540}}
+{'gff_id': {('chr18',): 12967}, 'gff_source_type': {('.', 'kmer_hit'): 12967}, 'gff_source': {('.',): 12967}, 'gff_type': {('kmer_hit',): 12967}}
+{'gff_id': {('chr19',): 7340}, 'gff_source_type': {('.', 'kmer_hit'): 7340}, 'gff_source': {('.',): 7340}, 'gff_type': {('kmer_hit',): 7340}}
+{'gff_id': {('chr20',): 39425}, 'gff_source_type': {('.', 'kmer_hit'): 39425}, 'gff_source': {('.',): 39425}, 'gff_type': {('kmer_hit',): 39425}}
+{'gff_id': {('chr21',): 10415}, 'gff_source_type': {('.', 'kmer_hit'): 10415}, 'gff_source': {('.',): 10415}, 'gff_type': {('kmer_hit',): 10415}}
+{'gff_id': {('chr22',): 11576}, 'gff_source_type': {('.', 'kmer_hit'): 11576}, 'gff_source': {('.',): 11576}, 'gff_type': {('kmer_hit',): 11576}}
+{'gff_id': {('chrX',): 12792}, 'gff_source_type': {('.', 'kmer_hit'): 12792}, 'gff_source': {('.',): 12792}, 'gff_type': {('kmer_hit',): 12792}}
+{'gff_id': {('chrY',): 2687}, 'gff_source_type': {('.', 'kmer_hit'): 2687}, 'gff_source': {('.',): 2687}, 'gff_type': {('kmer_hit',): 2687}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {('chr2',): 1}, 'gff_source_type': {('.', 'kmer_hit'): 1}, 'gff_source': {('.',): 1}, 'gff_type': {('kmer_hit',): 1}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {('chr10',): 1}, 'gff_source_type': {('.', 'kmer_hit'): 1}, 'gff_source': {('.',): 1}, 'gff_type': {('kmer_hit',): 1}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {('chr15',): 1}, 'gff_source_type': {('.', 'centromere'): 1}, 'gff_source': {('.',): 1}, 'gff_type': {('centromere',): 1}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {('chr2',): 23}, 'gff_source_type': {('.', 'kmer_hit'): 23}, 'gff_source': {('.',): 23}, 'gff_type': {('kmer_hit',): 23}}
+{'gff_id': {('chr3',): 3}, 'gff_source_type': {('.', 'kmer_hit'): 3}, 'gff_source': {('.',): 3}, 'gff_type': {('kmer_hit',): 3}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {('chr5',): 2}, 'gff_source_type': {('.', 'kmer_hit'): 2}, 'gff_source': {('.',): 2}, 'gff_type': {('kmer_hit',): 2}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {('chr9',): 2}, 'gff_source_type': {('.', 'kmer_hit'): 2}, 'gff_source': {('.',): 2}, 'gff_type': {('kmer_hit',): 2}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {('chr12',): 1}, 'gff_source_type': {('.', 'kmer_hit'): 1}, 'gff_source': {('.',): 1}, 'gff_type': {('kmer_hit',): 1}}
+{'gff_id': {('chr13',): 1}, 'gff_source_type': {('.', 'kmer_hit'): 1}, 'gff_source': {('.',): 1}, 'gff_type': {('kmer_hit',): 1}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {('chr15',): 1}, 'gff_source_type': {('.', 'centromere'): 1}, 'gff_source': {('.',): 1}, 'gff_type': {('centromere',): 1}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {('chr5',): 1}, 'gff_source_type': {('.', 'kmer_hit'): 1}, 'gff_source': {('.',): 1}, 'gff_type': {('kmer_hit',): 1}}
+{'gff_id': {('chr6',): 1}, 'gff_source_type': {('.', 'kmer_hit'): 1}, 'gff_source': {('.',): 1}, 'gff_type': {('kmer_hit',): 1}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {('chr15',): 1}, 'gff_source_type': {('.', 'centromere'): 1}, 'gff_source': {('.',): 1}, 'gff_type': {('centromere',): 1}}
+{'gff_id': {('chr16',): 1}, 'gff_source_type': {('.', 'kmer_hit'): 1}, 'gff_source': {('.',): 1}, 'gff_type': {('kmer_hit',): 1}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {('chr18',): 2}, 'gff_source_type': {('.', 'kmer_hit'): 2}, 'gff_source': {('.',): 2}, 'gff_type': {('kmer_hit',): 2}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {('chr20',): 1}, 'gff_source_type': {('.', 'kmer_hit'): 1}, 'gff_source': {('.',): 1}, 'gff_type': {('kmer_hit',): 1}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}
+{'gff_id': {}, 'gff_source_type': {}, 'gff_source': {}, 'gff_type': {}}

@@ -1,4 +1,8 @@
 *.pdf
 *.csv
-*.fa
+*centromere.fa
+*repeatmasked.fa
+*5Mbp.fa
+*mask.fa
 *.gff
+*.bed
