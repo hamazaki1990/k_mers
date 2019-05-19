@@ -6,3 +6,6 @@
 *mask.fa
 *.gff
 *.bed
+*png
+*.gtf
+*HORs.fa
