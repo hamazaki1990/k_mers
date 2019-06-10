@@ -29,8 +29,8 @@ for k in range(9, 20):
         else:
             for j in [1, 2, 3]:
                 print(str(j))
-                input_q = "SF" + str(j) + "_cent_original" + str(k) + "merlist.csv"
-                output = "chr" + i + "_centromere" + str(j) + "_" + str(k) + "mer_hit.gff"
+                input_q = "SF" + str(j) + "_original" + str(k) + "merlist.csv"
+                output = "chr" + i + "_SF" + str(j) + "_" + str(k) + "mer_hit.gff"
                 with open(output, "w") as outfile:
                     writer = csv.writer(outfile, delimiter=",")
                     writer.writerow(["##gff-version 3"])

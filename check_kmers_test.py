@@ -18,9 +18,9 @@ cent.remove("19")
 
 for k in range(16, 22):
 
-    for i in chr:
+    for i in [1, 2, 11]:
         print("chr" + str(i))
-        input_s = "chr" + i + "_livingcentmask.fa"
+        input_s = "chr" + str(i) + "_HOR.fa"
         try:
             genome = next(SeqIO.parse(input_s, "fasta"))
         except:
@@ -29,7 +29,7 @@ for k in range(16, 22):
             for j in [1, 2, 11]:
                 print(str(j))
                 input_q = "chr" + str(j) + "_HOR.fa"
-                output = "chr" + i + "_" + str(k) + "mer_chr" + str(j) + "HOR_hit_test.gff"
+                output = "HOR" + str(i) + "_" + str(k) + "mer_chr" + str(j) + "HOR_hit_test.gff"
                 kmer = collect_kmers(input_q, "fasta", k)
 
                 with open(output, "w") as outfile:
