@@ -16,7 +16,7 @@ cent.remove("5")
 cent.remove("19")
 
 
-for k in range(16, 22):
+for k in range(9, 22):
 
     for i in [1, 2, 11]:
         print("chr" + str(i))
